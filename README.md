@@ -1,4 +1,4 @@
-# SPINEN's Laravel QuickBooks Client
+# Forked SPINEN's Laravel QuickBooks Client
 
 [![Latest Stable Version](https://poser.pugx.org/spinen/laravel-quickbooks-client/v/stable)](https://packagist.org/packages/spinen/laravel-quickbooks-client)
 [![Latest Unstable Version](https://poser.pugx.org/spinen/laravel-quickbooks-client/v/unstable)](https://packagist.org/packages/spinen/laravel-quickbooks-client)
@@ -21,7 +21,7 @@ We solely use [Laravel](https://www.laravel.com) for our applications, so this p
 1. Install QuickBooks PHP Client:
 
 ```bash
-$ composer require spinen/laravel-quickbooks-client
+$ composer require devclick-technology/laravel-quickbooks-client:dev-develop
 ```
 
 2. Run our migration to install the `quickbooks_tokens` table:
